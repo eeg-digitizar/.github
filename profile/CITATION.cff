@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  DigitizAR: Smartphone-based EEG electrode
+  digitization and augmented reality of sensor
+  information.
+message: Please cite this software using these metadata.
+type: software
+authors:
+  - given-names: Thomas
+    family-names: Jochmann
+    email: thomas.jochmann@tu-ilmenau.de
+    affiliation: Technische Universität Ilmenau
+    orcid: 'https://orcid.org/0000-0002-3564-4127'
+  - given-names: Johannes
+    family-names: Rabold
+    email: johannes.rabold@tu-ilmenau.de
+    affiliation: Technische Universität Ilmenau
+  - given-names: Jens
+    family-names: Haueisen
+    email: jens.haueisen@tu-ilmenau.de
+    affiliation: Technische Universität Ilmenau
+    orcid: 'https://orcid.org/0000-0003-3871-2890'
+keywords:
+  - Electroencephalography
+  - EEG
+  - Augmented Reality
